@@ -66,6 +66,15 @@ module.exports = withBundleAnalyzer({
       },
     ]
   },
+  async redirects() {
+    return [
+      {
+        source: '/',
+        destination: '/privacy',
+        permanent: true,
+      },
+    ]
+  },
   webpack: (config, { dev, isServer }) => {
     config.module.rules.push({
       test: /\.svg$/,
