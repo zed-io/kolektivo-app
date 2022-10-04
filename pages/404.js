@@ -2,17 +2,6 @@ import Link from '@/components/Link'
 import { PageSEO } from '@/components/SEO'
 import siteMetadata from '@/data/siteMetadata'
 
-export async function getStaticProps() {
-  return {
-    redirect: {
-      destination: '/privacy',
-      permanent: true,
-    },
-  }
-  // const posts = await getAllFilesFrontMatter('blog')
-  // return { props: { posts } }
-}
-
 export default function FourZeroFour() {
   return (
     <>
