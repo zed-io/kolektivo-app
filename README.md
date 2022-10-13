@@ -238,6 +238,9 @@ Follow the interactive prompt to generate a post with pre-filled front matter.
 
 ## Deploy
 
+**Google App Engine**
+Here's a Github issue outlining steps to take to configure your NextJs app for deployment to Google App Engine. [See more](https://github.com/vercel/next.js/discussions/12474)
+
 **Vercel**  
 The easiest way to deploy the template is to use the [Vercel Platform](https://vercel.com) from the creators of Next.js. Check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 

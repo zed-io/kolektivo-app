@@ -1,0 +1,9 @@
+runtime: nodejs12
+service: kolektivo-app
+instance_class: F1
+env_variables:
+  NODE_ENV: production
+handlers:
+  - url: /.*
+    secure: always
+    script: auto
