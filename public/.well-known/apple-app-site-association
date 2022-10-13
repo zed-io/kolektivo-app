@@ -1,0 +1,17 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": {
+        "48TPT4QN6K.io.zed.alfajores.dev": {
+          "paths": [
+            "/wallet/pay"
+          ]
+        },
+        "48TPT4QN6K.io.zed.kolektivo": {
+          "paths": [
+            "/wallet/pay"
+          ]
+        }
+      }
+  }
+}

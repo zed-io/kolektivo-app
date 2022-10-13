@@ -10,11 +10,13 @@
     "gcp-build": "yarn build:prod",
     "analyze": "cross-env ANALYZE=true next build",
     "lint": "next lint --fix --dir pages --dir components --dir lib --dir layouts --dir scripts",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "deploy": "gcloud app deploy"
   },
   "dependencies": {
     "@fontsource/inter": "4.5.2",
     "@mailchimp/mailchimp_marketing": "^3.0.58",
+    "@next/bundle-analyzer": "12.1.4",
     "@tailwindcss/forms": "^0.4.0",
     "@tailwindcss/typography": "^0.5.0",
     "autoprefixer": "^10.4.0",
@@ -44,7 +46,6 @@
     "unist-util-visit": "^4.0.0"
   },
   "devDependencies": {
-    "@next/bundle-analyzer": "12.1.4",
     "@svgr/webpack": "^6.1.2",
     "cross-env": "^7.0.3",
     "dedent": "^0.7.0",
