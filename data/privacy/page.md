@@ -56,9 +56,10 @@ With vendors, consultants and other service providers who need access to such in
 We use the following sub-processors to operate our Services:
 
 - Segment.io Inc: Site Visitor Data Platform (United States)
-- Google: Site Visitor Analytics (United States)
+- Google: Site Visitor Analytics and hosting (United States)
 - Sentry: App monitoring platform (United States)
 - Bidali: Prepaid stored value products (Canada)
+- Capsule Labs, Inc: Key management, transaction signing (United States)
 
 ## Legal Bases For Processing (For EEA and other Users)
 
@@ -84,7 +85,7 @@ Our Services are not directed to children under the age of 18. If you learn that
 
 ## Your Rights
 
-If you are resident in countries with applicable data privacy laws you have the right, subject to certain exceptions, to request a copy of the Personal Data we are processing about you; to require that any incomplete or inaccurate Personal Data is amended; to request that we delete your Personal Data (although we may not be able to delete certain data due to legal or other obligations); to object to the use of your Personal Data; or to withdraw consent. You may also have a right to lodge a complaint with the local data protection authority if you believe that we have not complied with the applicable data protection laws. You may also contact us to address and resolve concerns you may have about our use of your Personal Data. Please contact us by email at support@kolektivo.co or by written letter to our offices located at Schout bij Nacht Doormanweg 40, Curaçao or Hoefkade 9, 2526 BN Den Haag, the Netherlands.
+If you are resident in countries with applicable data privacy laws you have the right, subject to certain exceptions, to request a copy of the Personal Data we are processing about you; to require that any incomplete or inaccurate Personal Data is amended; to request that we delete your Personal Data (although we may not be able to delete certain data due to legal or other obligations); to object to the use of your Personal Data; or to withdraw consent. You may also have a right to lodge a complaint with the local data protection authority if you believe that we have not complied with the applicable data protection laws. You may also contact us to address and resolve concerns you may have about our use of your Personal Data. Please contact us by email at support@kolektivo.co or by written letter to our representing offices located at Schout bij Nacht Doormanweg 40, Curaçao or Rokin 86, 1012 KX, Amsterdam, the Netherlands.
 
 ## Changes To This Privacy Policy
 
