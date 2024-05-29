@@ -5,13 +5,11 @@
   "scripts": {
     "dev": "cross-env SOCKET=true node ./scripts/next-remote-watch.js ./data",
     "start": "next start -p 8080",
-    "build": "next build && node ./scripts/generate-sitemap",
-    "build:prod": "rm -rf ./build && yarn build",
-    "gcp-build": "yarn build:prod",
+    "build:dev": "next build && node ./scripts/generate-sitemap",
+    "build": "rm -rf ./build && yarn build:dev",
     "analyze": "cross-env ANALYZE=true next build",
     "lint": "next lint --fix --dir pages --dir components --dir lib --dir layouts --dir scripts",
-    "prepare": "husky install",
-    "deploy": "gcloud app deploy"
+    "prepare": "husky install"
   },
   "dependencies": {
     "@fontsource/inter": "4.5.2",
