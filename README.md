@@ -1,4 +1,4 @@
-```markdown
+
 # Kolektivo Web App
 
 ## Quick Start Guide
@@ -103,4 +103,3 @@ Using the template? Support this effort by giving a star on GitHub, sharing your
 ## License
 
 Apache 2.0 License © Kolektivo Labs
-```
